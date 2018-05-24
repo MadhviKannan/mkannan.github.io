@@ -13,7 +13,7 @@ var displayDescription = function(n){
 	proj3Link = "https://github.com/MadhviKannan/CSCI-569-ImageProcessing/tree/master/EE_569_Homework3";
 	proj4Link = "https://ieeexplore.ieee.org/document/7808003/";
 	proj5Link = "https://github.com/MadhviKannan/CSCI-569-ImageProcessing/tree/master/EE_569_Homework4";
-	//proj6Link = "Link 6";
+	proj6Link = "https://github.com/MadhviKannan/MadhviKannan.github.io";
 
 	selectedProjDesc = "";
 	selectedProjLink = "";
@@ -41,7 +41,7 @@ var displayDescription = function(n){
 	}
 	else if(n==6){
 		selectedProjDesc = proj6Desc;
-		//selectedProjLink = proj6Link;
+		selectedProjLink = proj6Link;
 	}
 	else {
 
